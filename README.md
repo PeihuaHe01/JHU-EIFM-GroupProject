@@ -35,4 +35,5 @@ This helps balance responsiveness to recent market conditions with stability in 
 
 ## Author
 Peihua He, Yitong Zhang, Anzi Yao, Tracy Wang
+
 Johns Hopkins University
