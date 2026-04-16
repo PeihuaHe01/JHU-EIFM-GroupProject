@@ -33,6 +33,15 @@ This approach combines:
 
 This helps balance responsiveness to recent market conditions with stability in risk estimation.
 
+## Reproducibility Note
+
+All code in this project was executed using data available as of **March 5, 2026**.
+
+Due to the nature of the data source (Yahoo Finance), historical price data may be subject to revisions, including adjustments for dividends, stock splits, and data corrections. As a result, the exact numerical results (e.g., scores, rankings, and portfolio weights) may not be perfectly reproducible when the code is run at a later date.
+
+However, the overall methodology, stock selection logic, and portfolio structure remain consistent, and the results are robust to such minor data variations.
+
+
 ## Author
 Peihua He, Yitong Zhang, Anzi Yao, Tracy Wang
 
